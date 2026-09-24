@@ -105,13 +105,7 @@ Danach liegt die fertige Seite unter:
 _site/index.html
 ```
 
-Lokal ansehen:
-
-```bash
-python -m http.server 8000 --directory _site
-```
-
-Dann `http://localhost:8000` öffnen.
+Und das Ergebnis kann dann lokal im Browser angesehen werden.
 
 ## 7. Commit + Push zu deinem Fork
 
