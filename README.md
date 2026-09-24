@@ -1,4 +1,4 @@
-# ASCII Gallery ZDD 2026 (Exercise level 2)
+# ASCII Gallery Level 2 - 2026 (Exercise level 2)
 
 Öffentliches Übungsrepository für den Kurs **Software Engineering für Data Science**.
 
@@ -18,9 +18,10 @@ Nach der Übung kannst du:
 
 ## Deine Aufgabe
 
-Fuege **ein eigenes ASCII-Art-Werk** zur Galerie hinzu. Die fertige Galerie findest du hier: https://zddduesseldorf.github.io/ascii-gallery-zdd-2026/
+Füge **ein eigenes ASCII-Art-Werk** zur Galerie hinzu. Die fertige Galerie findest du hier: https://zddduesseldorf.github.io/ascii-gallery-zdd-2026/
 
-Anders als im internen Kursrepository bearbeiten wir hier **nicht gemeinsam dieselbe HTML-Datei**. Jede Person legt eine eigene Datei an. Die Webseite wird daraus automatisch gebaut.
+Anders als im Kursrepository `ASCII Gallery Level 1` bearbeiten wir hier **nicht gemeinsam dieselbe HTML-Datei**!
+Stattdessen legt **jede Person eine eigene Datei** an. Die Webseite wird daraus automatisch gebaut.
 
 Das ist Absicht: Gute Projektstruktur kann Merge-Konflikte stark reduzieren.
 
@@ -85,7 +86,8 @@ Beispiel:
  > ^ <
 ```
 
-Bitte:
+Sowohl dieses Repository als auch die daraus erstellte Webseite sind aus dem Netz frei erreichbar. Für alle.
+Darum bitte:
 
 - maximal ca. 20 Zeilen,
 - keine beleidigenden oder diskriminierenden Inhalte,
