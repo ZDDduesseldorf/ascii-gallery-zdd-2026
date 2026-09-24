@@ -18,7 +18,7 @@ Nach der Übung kannst du:
 
 ## Deine Aufgabe
 
-Fuege **ein eigenes ASCII-Art-Werk** zur Galerie hinzu.
+Fuege **ein eigenes ASCII-Art-Werk** zur Galerie hinzu. Die fertige Galerie findest du hier: https://zddduesseldorf.github.io/ascii-gallery-zdd-2026/
 
 Anders als im internen Kursrepository bearbeiten wir hier **nicht gemeinsam dieselbe HTML-Datei**. Jede Person legt eine eigene Datei an. Die Webseite wird daraus automatisch gebaut.
 
