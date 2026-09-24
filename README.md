@@ -1,4 +1,4 @@
-# ASCII Gallery ZDD 2026
+# ASCII Gallery ZDD 2026 (Exercise level 2)
 
 Öffentliches Übungsrepository für den Kurs **Software Engineering für Data Science**.
 
