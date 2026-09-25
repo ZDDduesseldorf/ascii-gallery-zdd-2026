@@ -4,7 +4,7 @@
 
 Dieses Repository trainiert den typischen **Fork-Workflow eines Open-Source-Projekts**. Studierende haben absichtlich **keine Schreibrechte** auf dieses Repository. Beiträge kommen aus einem eigenen Fork über einen Pull Request.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/727db567-d3d3-41df-8b2f-3d95e7f4e26b" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/727db567-d3d3-41df-8b2f-3d95e7f4e26b" />
 
 
 ## Lernziele
