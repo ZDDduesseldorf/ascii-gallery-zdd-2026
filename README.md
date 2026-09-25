@@ -111,6 +111,9 @@ Und das Ergebnis kann dann lokal im Browser angesehen werden.
 
 ## 7. Commit + Push zu deinem Fork
 
+Wenn die Änderung fertig ist und sich erfolgreich einbauen ließ (Schritt 6), kann sie offiziell hinzugefügt (="committed") werden.
+Dazu im Terminal einmal die folgenden Schritte durchgehen:
+
 ```bash
 git status
 git diff
@@ -119,7 +122,7 @@ git commit -m "Add ASCII art by <github-username>"
 git push -u origin ascii/<github-username>
 ```
 
-## 8. Pull Request zum Upstream
+## 8. Pull Request (PR) zum Upstream
 
 Öffne auf GitHub einen Pull Request:
 
@@ -127,13 +130,18 @@ git push -u origin ascii/<github-username>
 <dein Fork>:ascii/<username>  ->  ZDDduesseldorf/ascii-gallery-zdd-2026:main
 ```
 
-Nutze die PR-Vorlage und fordere ein Review an, falls dies im Praktikum so vereinbart wurde.
+Nutze die PR-Vorlage und fordere ein Review an. An der Stelle kurz den Tutoren Bescheid geben --> hier muss nun nämlich jemand deine Änderungen prüfen und Feedback abgeben.
 
-## 9. Review-Feedback einarbeiten
+## 9. Selbst einen Code Review durchführen!
 
-Ändere bei Bedarf deine Datei, committe und pushe erneut zu **demselben Branch**. Der offene Pull Request aktualisiert sich automatisch.
+Um die Wartezeit zu versüßen: Bitte in Abstimmung mit dem Tutor-Team einmal einen noch offenen, noch nicht reviewten Pull Request auswählen und dafür ein Code Review durchführen. 
 
-## 10. Später: Fork aktualisieren
+## 10. Review-Feedback einarbeiten
+
+Sobald dein eigener Pull Request Feedback bekommen hat, können die Änderungen eingearbeitet werden.
+Ändere bei Bedarf deine Datei, committe und pushe erneut zu **demselben Branch**. Der offene Pull Request aktualisiert sich dann automatisch.
+
+## 11. Später: Fork aktualisieren
 
 Wenn der Upstream inzwischen neue Commits hat:
 
