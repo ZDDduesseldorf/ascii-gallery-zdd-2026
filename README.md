@@ -1,3 +1,5 @@
+<a href="https://medien.hs-duesseldorf.de/studium/studiengaenge/bdaisy/" target="_blank"><img src="https://img.shields.io/badge/DAISY 2026-_Software_Engineering_for_Data_Science-teal.svg?style=flat"/></a>
+<a href="https://medien.hs-duesseldorf.de/studium/studiengaenge/bdaisy/" target="_blank"><img src="https://img.shields.io/badge/DAISY 2026-_Data_Science_AI_Infrastructures-lightblue.svg?style=flat"/></a>
 # ASCII Gallery Level 2 - 2026 (Exercise level 2)
 
 Öffentliches Übungsrepository für den Kurs **Software Engineering für Data Science**.
